@@ -1,7 +1,7 @@
 {
     "name":"Floe",
-    "thumbnail":"verbier.png",
-    "screenshot":"verbier.png",
+    "thumbnail":"floe.png",
+    "screenshot":"floe.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "images":[
