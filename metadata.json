@@ -77,7 +77,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Impact\", sans-serif",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "16px",
             "font-weight": "700",
             "line-height": "30px",
