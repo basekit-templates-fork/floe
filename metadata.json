@@ -93,7 +93,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Merriweather\", Georgia, serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "26px",
