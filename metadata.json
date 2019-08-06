@@ -1,5 +1,6 @@
 {
     "name":"Floe",
+    "versionTenCompatible": 1,
     "thumbnail":"floe.png",
     "screenshot":"floe-screenshot.jpg",
     "templateType":"standard",
